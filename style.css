@@ -51,4 +51,9 @@
   font-size: 0.7em;
   word-wrap: break-word;
   color: hsl(220deg, 15%, 55%);
+}
+@media (max-width: 414px) {
+  * body .container {
+    height: 400px;
+  }
 }/*# sourceMappingURL=style.css.map */
